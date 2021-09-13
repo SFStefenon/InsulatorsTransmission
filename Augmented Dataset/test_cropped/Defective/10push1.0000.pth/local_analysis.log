@@ -1,0 +1,1138 @@
+load model from ./saved_models/10push1.0000.pth
+model base architecture: 
+experiment run: 
+Prototypes are chosen from 2 number of classes.
+Their class identities are: [0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1]
+All prototypes connect most strongly to their respective classes.
+0 (0, 0)
+Predicted: 0
+Actual: 0
+Most activated 10 prototypes of this image:
+top 1 activated prototype for this image:
+prototype index: 7
+prototype class identity: 0
+activation value (similarity score): 0.9962700605392456
+last layer connection with predicted class: 1.0
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+top 2 activated prototype for this image:
+prototype index: 9
+prototype class identity: 0
+activation value (similarity score): 0.593736469745636
+last layer connection with predicted class: 1.0
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+top 3 activated prototype for this image:
+prototype index: 2
+prototype class identity: 0
+activation value (similarity score): 0.21788933873176575
+last layer connection with predicted class: 1.0
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+top 4 activated prototype for this image:
+prototype index: 1
+prototype class identity: 0
+activation value (similarity score): 0.21519704163074493
+last layer connection with predicted class: 1.0
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+top 5 activated prototype for this image:
+prototype index: 3
+prototype class identity: 0
+activation value (similarity score): 0.08683064579963684
+last layer connection with predicted class: 1.0
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+top 6 activated prototype for this image:
+prototype index: 0
+prototype class identity: 0
+activation value (similarity score): 0.07674239575862885
+last layer connection with predicted class: 1.0
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+top 7 activated prototype for this image:
+prototype index: 5
+prototype class identity: 0
+activation value (similarity score): 0.023967068642377853
+last layer connection with predicted class: 1.0
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+top 8 activated prototype for this image:
+prototype index: 4
+prototype class identity: 0
+activation value (similarity score): 0.015415329486131668
+last layer connection with predicted class: 1.0
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+top 9 activated prototype for this image:
+prototype index: 8
+prototype class identity: 0
+activation value (similarity score): 0.0113872354850173
+last layer connection with predicted class: 1.0
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+top 10 activated prototype for this image:
+prototype index: 6
+prototype class identity: 0
+activation value (similarity score): 0.0113872354850173
+last layer connection with predicted class: 1.0
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+load model from ./saved_models/10push1.0000.pth
+model base architecture: 
+experiment run: 
+Prototypes are chosen from 2 number of classes.
+Their class identities are: [0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1]
+All prototypes connect most strongly to their respective classes.
+0 (0, 0)
+Predicted: 0
+Actual: 0
+Most activated 10 prototypes of this image:
+top 1 activated prototype for this image:
+prototype index: 7
+prototype class identity: 0
+activation value (similarity score): 0.9962700605392456
+last layer connection with predicted class: 1.0
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+top 2 activated prototype for this image:
+prototype index: 9
+prototype class identity: 0
+activation value (similarity score): 0.593736469745636
+last layer connection with predicted class: 1.0
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+top 3 activated prototype for this image:
+prototype index: 2
+prototype class identity: 0
+activation value (similarity score): 0.21788933873176575
+last layer connection with predicted class: 1.0
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+top 4 activated prototype for this image:
+prototype index: 1
+prototype class identity: 0
+activation value (similarity score): 0.21519704163074493
+last layer connection with predicted class: 1.0
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+top 5 activated prototype for this image:
+prototype index: 3
+prototype class identity: 0
+activation value (similarity score): 0.08683064579963684
+last layer connection with predicted class: 1.0
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+top 6 activated prototype for this image:
+prototype index: 0
+prototype class identity: 0
+activation value (similarity score): 0.07674239575862885
+last layer connection with predicted class: 1.0
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+top 7 activated prototype for this image:
+prototype index: 5
+prototype class identity: 0
+activation value (similarity score): 0.023967068642377853
+last layer connection with predicted class: 1.0
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+top 8 activated prototype for this image:
+prototype index: 4
+prototype class identity: 0
+activation value (similarity score): 0.015415329486131668
+last layer connection with predicted class: 1.0
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+top 9 activated prototype for this image:
+prototype index: 8
+prototype class identity: 0
+activation value (similarity score): 0.0113872354850173
+last layer connection with predicted class: 1.0
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+top 10 activated prototype for this image:
+prototype index: 6
+prototype class identity: 0
+activation value (similarity score): 0.0113872354850173
+last layer connection with predicted class: 1.0
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+Prototypes from top-3 classes:
+load model from ./saved_models/10push1.0000.pth
+model base architecture: 
+experiment run: 
+Prototypes are chosen from 2 number of classes.
+Their class identities are: [0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1]
+All prototypes connect most strongly to their respective classes.
+0 (0, 0)
+Predicted: 0
+Actual: 0
+Most activated 10 prototypes of this image:
+top 1 activated prototype for this image:
+prototype index: 7
+prototype class identity: 0
+activation value (similarity score): 0.9962700605392456
+last layer connection with predicted class: 1.0
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+top 2 activated prototype for this image:
+prototype index: 9
+prototype class identity: 0
+activation value (similarity score): 0.593736469745636
+last layer connection with predicted class: 1.0
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+top 3 activated prototype for this image:
+prototype index: 2
+prototype class identity: 0
+activation value (similarity score): 0.21788933873176575
+last layer connection with predicted class: 1.0
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+top 4 activated prototype for this image:
+prototype index: 1
+prototype class identity: 0
+activation value (similarity score): 0.21519704163074493
+last layer connection with predicted class: 1.0
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+top 5 activated prototype for this image:
+prototype index: 3
+prototype class identity: 0
+activation value (similarity score): 0.08683064579963684
+last layer connection with predicted class: 1.0
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+top 6 activated prototype for this image:
+prototype index: 0
+prototype class identity: 0
+activation value (similarity score): 0.07674239575862885
+last layer connection with predicted class: 1.0
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+top 7 activated prototype for this image:
+prototype index: 5
+prototype class identity: 0
+activation value (similarity score): 0.023967068642377853
+last layer connection with predicted class: 1.0
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+top 8 activated prototype for this image:
+prototype index: 4
+prototype class identity: 0
+activation value (similarity score): 0.015415329486131668
+last layer connection with predicted class: 1.0
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+top 9 activated prototype for this image:
+prototype index: 8
+prototype class identity: 0
+activation value (similarity score): 0.0113872354850173
+last layer connection with predicted class: 1.0
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+top 10 activated prototype for this image:
+prototype index: 6
+prototype class identity: 0
+activation value (similarity score): 0.0113872354850173
+last layer connection with predicted class: 1.0
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+Prototypes from top-2 classes:
+top 1 predicted class: 0
+logit of the class: 2.243991
+prototype index: 7
+prototype class identity: 0
+activation value (similarity score): 0.9962700605392456
+last layer connection: 1.0
+last layer connection  New: tensor([ 2.2440, -2.2440], device='cuda:0', grad_fn=<SelectBackward>)
+last layer connection: Parameter containing:
+tensor([[ 1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1., -1., -1., -1., -1.,
+         -1., -1., -1., -1., -1., -1.],
+        [-1., -1., -1., -1., -1., -1., -1., -1., -1., -1.,  1.,  1.,  1.,  1.,
+          1.,  1.,  1.,  1.,  1.,  1.]], device='cuda:0', requires_grad=True)
+activation value (similarity score): tensor([[7.6742e-02, 2.1520e-01, 2.1789e-01, 8.6831e-02, 1.5415e-02, 2.3967e-02,
+         1.1387e-02, 9.9627e-01, 1.1387e-02, 5.9374e-01, 5.0842e-04, 4.3287e-04,
+         4.8912e-04, 5.0901e-04, 5.0603e-04, 5.1628e-04, 5.0842e-04, 4.4384e-04,
+         5.0842e-04, 4.0976e-04]], device='cuda:0', grad_fn=<LogBackward>)
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+prototype index: 9
+prototype class identity: 0
+activation value (similarity score): 0.593736469745636
+last layer connection: 1.0
+last layer connection  New: tensor([ 2.2440, -2.2440], device='cuda:0', grad_fn=<SelectBackward>)
+last layer connection: Parameter containing:
+tensor([[ 1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1., -1., -1., -1., -1.,
+         -1., -1., -1., -1., -1., -1.],
+        [-1., -1., -1., -1., -1., -1., -1., -1., -1., -1.,  1.,  1.,  1.,  1.,
+          1.,  1.,  1.,  1.,  1.,  1.]], device='cuda:0', requires_grad=True)
+activation value (similarity score): tensor([[7.6742e-02, 2.1520e-01, 2.1789e-01, 8.6831e-02, 1.5415e-02, 2.3967e-02,
+         1.1387e-02, 9.9627e-01, 1.1387e-02, 5.9374e-01, 5.0842e-04, 4.3287e-04,
+         4.8912e-04, 5.0901e-04, 5.0603e-04, 5.1628e-04, 5.0842e-04, 4.4384e-04,
+         5.0842e-04, 4.0976e-04]], device='cuda:0', grad_fn=<LogBackward>)
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+prototype index: 2
+prototype class identity: 0
+activation value (similarity score): 0.21788933873176575
+last layer connection: 1.0
+last layer connection  New: tensor([ 2.2440, -2.2440], device='cuda:0', grad_fn=<SelectBackward>)
+last layer connection: Parameter containing:
+tensor([[ 1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1., -1., -1., -1., -1.,
+         -1., -1., -1., -1., -1., -1.],
+        [-1., -1., -1., -1., -1., -1., -1., -1., -1., -1.,  1.,  1.,  1.,  1.,
+          1.,  1.,  1.,  1.,  1.,  1.]], device='cuda:0', requires_grad=True)
+activation value (similarity score): tensor([[7.6742e-02, 2.1520e-01, 2.1789e-01, 8.6831e-02, 1.5415e-02, 2.3967e-02,
+         1.1387e-02, 9.9627e-01, 1.1387e-02, 5.9374e-01, 5.0842e-04, 4.3287e-04,
+         4.8912e-04, 5.0901e-04, 5.0603e-04, 5.1628e-04, 5.0842e-04, 4.4384e-04,
+         5.0842e-04, 4.0976e-04]], device='cuda:0', grad_fn=<LogBackward>)
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+prototype index: 1
+prototype class identity: 0
+activation value (similarity score): 0.21519704163074493
+last layer connection: 1.0
+last layer connection  New: tensor([ 2.2440, -2.2440], device='cuda:0', grad_fn=<SelectBackward>)
+last layer connection: Parameter containing:
+tensor([[ 1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1., -1., -1., -1., -1.,
+         -1., -1., -1., -1., -1., -1.],
+        [-1., -1., -1., -1., -1., -1., -1., -1., -1., -1.,  1.,  1.,  1.,  1.,
+          1.,  1.,  1.,  1.,  1.,  1.]], device='cuda:0', requires_grad=True)
+activation value (similarity score): tensor([[7.6742e-02, 2.1520e-01, 2.1789e-01, 8.6831e-02, 1.5415e-02, 2.3967e-02,
+         1.1387e-02, 9.9627e-01, 1.1387e-02, 5.9374e-01, 5.0842e-04, 4.3287e-04,
+         4.8912e-04, 5.0901e-04, 5.0603e-04, 5.1628e-04, 5.0842e-04, 4.4384e-04,
+         5.0842e-04, 4.0976e-04]], device='cuda:0', grad_fn=<LogBackward>)
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+prototype index: 3
+prototype class identity: 0
+activation value (similarity score): 0.08683064579963684
+last layer connection: 1.0
+last layer connection  New: tensor([ 2.2440, -2.2440], device='cuda:0', grad_fn=<SelectBackward>)
+last layer connection: Parameter containing:
+tensor([[ 1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1., -1., -1., -1., -1.,
+         -1., -1., -1., -1., -1., -1.],
+        [-1., -1., -1., -1., -1., -1., -1., -1., -1., -1.,  1.,  1.,  1.,  1.,
+          1.,  1.,  1.,  1.,  1.,  1.]], device='cuda:0', requires_grad=True)
+activation value (similarity score): tensor([[7.6742e-02, 2.1520e-01, 2.1789e-01, 8.6831e-02, 1.5415e-02, 2.3967e-02,
+         1.1387e-02, 9.9627e-01, 1.1387e-02, 5.9374e-01, 5.0842e-04, 4.3287e-04,
+         4.8912e-04, 5.0901e-04, 5.0603e-04, 5.1628e-04, 5.0842e-04, 4.4384e-04,
+         5.0842e-04, 4.0976e-04]], device='cuda:0', grad_fn=<LogBackward>)
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+prototype index: 0
+prototype class identity: 0
+activation value (similarity score): 0.07674239575862885
+last layer connection: 1.0
+last layer connection  New: tensor([ 2.2440, -2.2440], device='cuda:0', grad_fn=<SelectBackward>)
+last layer connection: Parameter containing:
+tensor([[ 1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1., -1., -1., -1., -1.,
+         -1., -1., -1., -1., -1., -1.],
+        [-1., -1., -1., -1., -1., -1., -1., -1., -1., -1.,  1.,  1.,  1.,  1.,
+          1.,  1.,  1.,  1.,  1.,  1.]], device='cuda:0', requires_grad=True)
+activation value (similarity score): tensor([[7.6742e-02, 2.1520e-01, 2.1789e-01, 8.6831e-02, 1.5415e-02, 2.3967e-02,
+         1.1387e-02, 9.9627e-01, 1.1387e-02, 5.9374e-01, 5.0842e-04, 4.3287e-04,
+         4.8912e-04, 5.0901e-04, 5.0603e-04, 5.1628e-04, 5.0842e-04, 4.4384e-04,
+         5.0842e-04, 4.0976e-04]], device='cuda:0', grad_fn=<LogBackward>)
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+prototype index: 5
+prototype class identity: 0
+activation value (similarity score): 0.023967068642377853
+last layer connection: 1.0
+last layer connection  New: tensor([ 2.2440, -2.2440], device='cuda:0', grad_fn=<SelectBackward>)
+last layer connection: Parameter containing:
+tensor([[ 1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1., -1., -1., -1., -1.,
+         -1., -1., -1., -1., -1., -1.],
+        [-1., -1., -1., -1., -1., -1., -1., -1., -1., -1.,  1.,  1.,  1.,  1.,
+          1.,  1.,  1.,  1.,  1.,  1.]], device='cuda:0', requires_grad=True)
+activation value (similarity score): tensor([[7.6742e-02, 2.1520e-01, 2.1789e-01, 8.6831e-02, 1.5415e-02, 2.3967e-02,
+         1.1387e-02, 9.9627e-01, 1.1387e-02, 5.9374e-01, 5.0842e-04, 4.3287e-04,
+         4.8912e-04, 5.0901e-04, 5.0603e-04, 5.1628e-04, 5.0842e-04, 4.4384e-04,
+         5.0842e-04, 4.0976e-04]], device='cuda:0', grad_fn=<LogBackward>)
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+prototype index: 4
+prototype class identity: 0
+activation value (similarity score): 0.015415329486131668
+last layer connection: 1.0
+last layer connection  New: tensor([ 2.2440, -2.2440], device='cuda:0', grad_fn=<SelectBackward>)
+last layer connection: Parameter containing:
+tensor([[ 1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1., -1., -1., -1., -1.,
+         -1., -1., -1., -1., -1., -1.],
+        [-1., -1., -1., -1., -1., -1., -1., -1., -1., -1.,  1.,  1.,  1.,  1.,
+          1.,  1.,  1.,  1.,  1.,  1.]], device='cuda:0', requires_grad=True)
+activation value (similarity score): tensor([[7.6742e-02, 2.1520e-01, 2.1789e-01, 8.6831e-02, 1.5415e-02, 2.3967e-02,
+         1.1387e-02, 9.9627e-01, 1.1387e-02, 5.9374e-01, 5.0842e-04, 4.3287e-04,
+         4.8912e-04, 5.0901e-04, 5.0603e-04, 5.1628e-04, 5.0842e-04, 4.4384e-04,
+         5.0842e-04, 4.0976e-04]], device='cuda:0', grad_fn=<LogBackward>)
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+prototype index: 8
+prototype class identity: 0
+activation value (similarity score): 0.0113872354850173
+last layer connection: 1.0
+last layer connection  New: tensor([ 2.2440, -2.2440], device='cuda:0', grad_fn=<SelectBackward>)
+last layer connection: Parameter containing:
+tensor([[ 1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1., -1., -1., -1., -1.,
+         -1., -1., -1., -1., -1., -1.],
+        [-1., -1., -1., -1., -1., -1., -1., -1., -1., -1.,  1.,  1.,  1.,  1.,
+          1.,  1.,  1.,  1.,  1.,  1.]], device='cuda:0', requires_grad=True)
+activation value (similarity score): tensor([[7.6742e-02, 2.1520e-01, 2.1789e-01, 8.6831e-02, 1.5415e-02, 2.3967e-02,
+         1.1387e-02, 9.9627e-01, 1.1387e-02, 5.9374e-01, 5.0842e-04, 4.3287e-04,
+         4.8912e-04, 5.0901e-04, 5.0603e-04, 5.1628e-04, 5.0842e-04, 4.4384e-04,
+         5.0842e-04, 4.0976e-04]], device='cuda:0', grad_fn=<LogBackward>)
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+prototype index: 6
+prototype class identity: 0
+activation value (similarity score): 0.0113872354850173
+last layer connection: 1.0
+last layer connection  New: tensor([ 2.2440, -2.2440], device='cuda:0', grad_fn=<SelectBackward>)
+last layer connection: Parameter containing:
+tensor([[ 1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1., -1., -1., -1., -1.,
+         -1., -1., -1., -1., -1., -1.],
+        [-1., -1., -1., -1., -1., -1., -1., -1., -1., -1.,  1.,  1.,  1.,  1.,
+          1.,  1.,  1.,  1.,  1.,  1.]], device='cuda:0', requires_grad=True)
+activation value (similarity score): tensor([[7.6742e-02, 2.1520e-01, 2.1789e-01, 8.6831e-02, 1.5415e-02, 2.3967e-02,
+         1.1387e-02, 9.9627e-01, 1.1387e-02, 5.9374e-01, 5.0842e-04, 4.3287e-04,
+         4.8912e-04, 5.0901e-04, 5.0603e-04, 5.1628e-04, 5.0842e-04, 4.4384e-04,
+         5.0842e-04, 4.0976e-04]], device='cuda:0', grad_fn=<LogBackward>)
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+***************************************************************
+top 2 predicted class: 1
+logit of the class: -2.243991
+prototype index: 15
+prototype class identity: 1
+activation value (similarity score): 0.0005162813467904925
+last layer connection: 1.0
+last layer connection  New: tensor([ 2.2440, -2.2440], device='cuda:0', grad_fn=<SelectBackward>)
+last layer connection: Parameter containing:
+tensor([[ 1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1., -1., -1., -1., -1.,
+         -1., -1., -1., -1., -1., -1.],
+        [-1., -1., -1., -1., -1., -1., -1., -1., -1., -1.,  1.,  1.,  1.,  1.,
+          1.,  1.,  1.,  1.,  1.,  1.]], device='cuda:0', requires_grad=True)
+activation value (similarity score): tensor([[7.6742e-02, 2.1520e-01, 2.1789e-01, 8.6831e-02, 1.5415e-02, 2.3967e-02,
+         1.1387e-02, 9.9627e-01, 1.1387e-02, 5.9374e-01, 5.0842e-04, 4.3287e-04,
+         4.8912e-04, 5.0901e-04, 5.0603e-04, 5.1628e-04, 5.0842e-04, 4.4384e-04,
+         5.0842e-04, 4.0976e-04]], device='cuda:0', grad_fn=<LogBackward>)
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+prototype index: 13
+prototype class identity: 1
+activation value (similarity score): 0.0005090133054181933
+last layer connection: 1.0
+last layer connection  New: tensor([ 2.2440, -2.2440], device='cuda:0', grad_fn=<SelectBackward>)
+last layer connection: Parameter containing:
+tensor([[ 1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1., -1., -1., -1., -1.,
+         -1., -1., -1., -1., -1., -1.],
+        [-1., -1., -1., -1., -1., -1., -1., -1., -1., -1.,  1.,  1.,  1.,  1.,
+          1.,  1.,  1.,  1.,  1.,  1.]], device='cuda:0', requires_grad=True)
+activation value (similarity score): tensor([[7.6742e-02, 2.1520e-01, 2.1789e-01, 8.6831e-02, 1.5415e-02, 2.3967e-02,
+         1.1387e-02, 9.9627e-01, 1.1387e-02, 5.9374e-01, 5.0842e-04, 4.3287e-04,
+         4.8912e-04, 5.0901e-04, 5.0603e-04, 5.1628e-04, 5.0842e-04, 4.4384e-04,
+         5.0842e-04, 4.0976e-04]], device='cuda:0', grad_fn=<LogBackward>)
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+prototype index: 10
+prototype class identity: 1
+activation value (similarity score): 0.000508417550008744
+last layer connection: 1.0
+last layer connection  New: tensor([ 2.2440, -2.2440], device='cuda:0', grad_fn=<SelectBackward>)
+last layer connection: Parameter containing:
+tensor([[ 1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1., -1., -1., -1., -1.,
+         -1., -1., -1., -1., -1., -1.],
+        [-1., -1., -1., -1., -1., -1., -1., -1., -1., -1.,  1.,  1.,  1.,  1.,
+          1.,  1.,  1.,  1.,  1.,  1.]], device='cuda:0', requires_grad=True)
+activation value (similarity score): tensor([[7.6742e-02, 2.1520e-01, 2.1789e-01, 8.6831e-02, 1.5415e-02, 2.3967e-02,
+         1.1387e-02, 9.9627e-01, 1.1387e-02, 5.9374e-01, 5.0842e-04, 4.3287e-04,
+         4.8912e-04, 5.0901e-04, 5.0603e-04, 5.1628e-04, 5.0842e-04, 4.4384e-04,
+         5.0842e-04, 4.0976e-04]], device='cuda:0', grad_fn=<LogBackward>)
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+prototype index: 18
+prototype class identity: 1
+activation value (similarity score): 0.000508417550008744
+last layer connection: 1.0
+last layer connection  New: tensor([ 2.2440, -2.2440], device='cuda:0', grad_fn=<SelectBackward>)
+last layer connection: Parameter containing:
+tensor([[ 1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1., -1., -1., -1., -1.,
+         -1., -1., -1., -1., -1., -1.],
+        [-1., -1., -1., -1., -1., -1., -1., -1., -1., -1.,  1.,  1.,  1.,  1.,
+          1.,  1.,  1.,  1.,  1.,  1.]], device='cuda:0', requires_grad=True)
+activation value (similarity score): tensor([[7.6742e-02, 2.1520e-01, 2.1789e-01, 8.6831e-02, 1.5415e-02, 2.3967e-02,
+         1.1387e-02, 9.9627e-01, 1.1387e-02, 5.9374e-01, 5.0842e-04, 4.3287e-04,
+         4.8912e-04, 5.0901e-04, 5.0603e-04, 5.1628e-04, 5.0842e-04, 4.4384e-04,
+         5.0842e-04, 4.0976e-04]], device='cuda:0', grad_fn=<LogBackward>)
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+prototype index: 16
+prototype class identity: 1
+activation value (similarity score): 0.000508417550008744
+last layer connection: 1.0
+last layer connection  New: tensor([ 2.2440, -2.2440], device='cuda:0', grad_fn=<SelectBackward>)
+last layer connection: Parameter containing:
+tensor([[ 1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1., -1., -1., -1., -1.,
+         -1., -1., -1., -1., -1., -1.],
+        [-1., -1., -1., -1., -1., -1., -1., -1., -1., -1.,  1.,  1.,  1.,  1.,
+          1.,  1.,  1.,  1.,  1.,  1.]], device='cuda:0', requires_grad=True)
+activation value (similarity score): tensor([[7.6742e-02, 2.1520e-01, 2.1789e-01, 8.6831e-02, 1.5415e-02, 2.3967e-02,
+         1.1387e-02, 9.9627e-01, 1.1387e-02, 5.9374e-01, 5.0842e-04, 4.3287e-04,
+         4.8912e-04, 5.0901e-04, 5.0603e-04, 5.1628e-04, 5.0842e-04, 4.4384e-04,
+         5.0842e-04, 4.0976e-04]], device='cuda:0', grad_fn=<LogBackward>)
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+prototype index: 14
+prototype class identity: 1
+activation value (similarity score): 0.0005060345865786076
+last layer connection: 1.0
+last layer connection  New: tensor([ 2.2440, -2.2440], device='cuda:0', grad_fn=<SelectBackward>)
+last layer connection: Parameter containing:
+tensor([[ 1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1., -1., -1., -1., -1.,
+         -1., -1., -1., -1., -1., -1.],
+        [-1., -1., -1., -1., -1., -1., -1., -1., -1., -1.,  1.,  1.,  1.,  1.,
+          1.,  1.,  1.,  1.,  1.,  1.]], device='cuda:0', requires_grad=True)
+activation value (similarity score): tensor([[7.6742e-02, 2.1520e-01, 2.1789e-01, 8.6831e-02, 1.5415e-02, 2.3967e-02,
+         1.1387e-02, 9.9627e-01, 1.1387e-02, 5.9374e-01, 5.0842e-04, 4.3287e-04,
+         4.8912e-04, 5.0901e-04, 5.0603e-04, 5.1628e-04, 5.0842e-04, 4.4384e-04,
+         5.0842e-04, 4.0976e-04]], device='cuda:0', grad_fn=<LogBackward>)
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+prototype index: 12
+prototype class identity: 1
+activation value (similarity score): 0.0004891153075732291
+last layer connection: 1.0
+last layer connection  New: tensor([ 2.2440, -2.2440], device='cuda:0', grad_fn=<SelectBackward>)
+last layer connection: Parameter containing:
+tensor([[ 1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1., -1., -1., -1., -1.,
+         -1., -1., -1., -1., -1., -1.],
+        [-1., -1., -1., -1., -1., -1., -1., -1., -1., -1.,  1.,  1.,  1.,  1.,
+          1.,  1.,  1.,  1.,  1.,  1.]], device='cuda:0', requires_grad=True)
+activation value (similarity score): tensor([[7.6742e-02, 2.1520e-01, 2.1789e-01, 8.6831e-02, 1.5415e-02, 2.3967e-02,
+         1.1387e-02, 9.9627e-01, 1.1387e-02, 5.9374e-01, 5.0842e-04, 4.3287e-04,
+         4.8912e-04, 5.0901e-04, 5.0603e-04, 5.1628e-04, 5.0842e-04, 4.4384e-04,
+         5.0842e-04, 4.0976e-04]], device='cuda:0', grad_fn=<LogBackward>)
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+prototype index: 17
+prototype class identity: 1
+activation value (similarity score): 0.00044383687782101333
+last layer connection: 1.0
+last layer connection  New: tensor([ 2.2440, -2.2440], device='cuda:0', grad_fn=<SelectBackward>)
+last layer connection: Parameter containing:
+tensor([[ 1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1., -1., -1., -1., -1.,
+         -1., -1., -1., -1., -1., -1.],
+        [-1., -1., -1., -1., -1., -1., -1., -1., -1., -1.,  1.,  1.,  1.,  1.,
+          1.,  1.,  1.,  1.,  1.,  1.]], device='cuda:0', requires_grad=True)
+activation value (similarity score): tensor([[7.6742e-02, 2.1520e-01, 2.1789e-01, 8.6831e-02, 1.5415e-02, 2.3967e-02,
+         1.1387e-02, 9.9627e-01, 1.1387e-02, 5.9374e-01, 5.0842e-04, 4.3287e-04,
+         4.8912e-04, 5.0901e-04, 5.0603e-04, 5.1628e-04, 5.0842e-04, 4.4384e-04,
+         5.0842e-04, 4.0976e-04]], device='cuda:0', grad_fn=<LogBackward>)
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+prototype index: 11
+prototype class identity: 1
+activation value (similarity score): 0.0004328744253143668
+last layer connection: 1.0
+last layer connection  New: tensor([ 2.2440, -2.2440], device='cuda:0', grad_fn=<SelectBackward>)
+last layer connection: Parameter containing:
+tensor([[ 1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1., -1., -1., -1., -1.,
+         -1., -1., -1., -1., -1., -1.],
+        [-1., -1., -1., -1., -1., -1., -1., -1., -1., -1.,  1.,  1.,  1.,  1.,
+          1.,  1.,  1.,  1.,  1.,  1.]], device='cuda:0', requires_grad=True)
+activation value (similarity score): tensor([[7.6742e-02, 2.1520e-01, 2.1789e-01, 8.6831e-02, 1.5415e-02, 2.3967e-02,
+         1.1387e-02, 9.9627e-01, 1.1387e-02, 5.9374e-01, 5.0842e-04, 4.3287e-04,
+         4.8912e-04, 5.0901e-04, 5.0603e-04, 5.1628e-04, 5.0842e-04, 4.4384e-04,
+         5.0842e-04, 4.0976e-04]], device='cuda:0', grad_fn=<LogBackward>)
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+prototype index: 19
+prototype class identity: 1
+activation value (similarity score): 0.00040975757292471826
+last layer connection: 1.0
+last layer connection  New: tensor([ 2.2440, -2.2440], device='cuda:0', grad_fn=<SelectBackward>)
+last layer connection: Parameter containing:
+tensor([[ 1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1., -1., -1., -1., -1.,
+         -1., -1., -1., -1., -1., -1.],
+        [-1., -1., -1., -1., -1., -1., -1., -1., -1., -1.,  1.,  1.,  1.,  1.,
+          1.,  1.,  1.,  1.,  1.,  1.]], device='cuda:0', requires_grad=True)
+activation value (similarity score): tensor([[7.6742e-02, 2.1520e-01, 2.1789e-01, 8.6831e-02, 1.5415e-02, 2.3967e-02,
+         1.1387e-02, 9.9627e-01, 1.1387e-02, 5.9374e-01, 5.0842e-04, 4.3287e-04,
+         4.8912e-04, 5.0901e-04, 5.0603e-04, 5.1628e-04, 5.0842e-04, 4.4384e-04,
+         5.0842e-04, 4.0976e-04]], device='cuda:0', grad_fn=<LogBackward>)
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+***************************************************************
+Prediction is correct.
+Prototypes from top-2 classes:
+load model from ./saved_models/10push1.0000.pth
+model base architecture: 
+experiment run: 
+Prototypes are chosen from 2 number of classes.
+Their class identities are: [0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1]
+All prototypes connect most strongly to their respective classes.
+0 (0, 0)
+Predicted: 0
+Actual: 0
+Most activated 10 prototypes of this image:
+top 1 activated prototype for this image:
+prototype index: 7
+prototype class identity: 0
+activation value (similarity score): 0.9962700605392456
+last layer connection with predicted class: 1.0
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+top 2 activated prototype for this image:
+prototype index: 9
+prototype class identity: 0
+activation value (similarity score): 0.593736469745636
+last layer connection with predicted class: 1.0
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+top 3 activated prototype for this image:
+prototype index: 2
+prototype class identity: 0
+activation value (similarity score): 0.21788933873176575
+last layer connection with predicted class: 1.0
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+top 4 activated prototype for this image:
+prototype index: 1
+prototype class identity: 0
+activation value (similarity score): 0.21519704163074493
+last layer connection with predicted class: 1.0
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+top 5 activated prototype for this image:
+prototype index: 3
+prototype class identity: 0
+activation value (similarity score): 0.08683064579963684
+last layer connection with predicted class: 1.0
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+top 6 activated prototype for this image:
+prototype index: 0
+prototype class identity: 0
+activation value (similarity score): 0.07674239575862885
+last layer connection with predicted class: 1.0
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+top 7 activated prototype for this image:
+prototype index: 5
+prototype class identity: 0
+activation value (similarity score): 0.023967068642377853
+last layer connection with predicted class: 1.0
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+top 8 activated prototype for this image:
+prototype index: 4
+prototype class identity: 0
+activation value (similarity score): 0.015415329486131668
+last layer connection with predicted class: 1.0
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+top 9 activated prototype for this image:
+prototype index: 8
+prototype class identity: 0
+activation value (similarity score): 0.0113872354850173
+last layer connection with predicted class: 1.0
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+top 10 activated prototype for this image:
+prototype index: 6
+prototype class identity: 0
+activation value (similarity score): 0.0113872354850173
+last layer connection with predicted class: 1.0
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+Prototypes from top-2 classes:
+top 1 predicted class: 0
+logit of the class: 2.243991
+prototype index: 7
+prototype class identity: 0
+activation value (similarity score): 0.9962700605392456
+last layer connection: 1.0
+last layer connection  New: tensor([ 2.2440, -2.2440], device='cuda:0', grad_fn=<SelectBackward>)
+last layer connection: Parameter containing:
+tensor([[ 1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1., -1., -1., -1., -1.,
+         -1., -1., -1., -1., -1., -1.],
+        [-1., -1., -1., -1., -1., -1., -1., -1., -1., -1.,  1.,  1.,  1.,  1.,
+          1.,  1.,  1.,  1.,  1.,  1.]], device='cuda:0', requires_grad=True)
+activation value (similarity score): tensor([[7.6742e-02, 2.1520e-01, 2.1789e-01, 8.6831e-02, 1.5415e-02, 2.3967e-02,
+         1.1387e-02, 9.9627e-01, 1.1387e-02, 5.9374e-01, 5.0842e-04, 4.3287e-04,
+         4.8912e-04, 5.0901e-04, 5.0603e-04, 5.1628e-04, 5.0842e-04, 4.4384e-04,
+         5.0842e-04, 4.0976e-04]], device='cuda:0', grad_fn=<LogBackward>)
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+prototype index: 9
+prototype class identity: 0
+activation value (similarity score): 0.593736469745636
+last layer connection: 1.0
+last layer connection  New: tensor([ 2.2440, -2.2440], device='cuda:0', grad_fn=<SelectBackward>)
+last layer connection: Parameter containing:
+tensor([[ 1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1., -1., -1., -1., -1.,
+         -1., -1., -1., -1., -1., -1.],
+        [-1., -1., -1., -1., -1., -1., -1., -1., -1., -1.,  1.,  1.,  1.,  1.,
+          1.,  1.,  1.,  1.,  1.,  1.]], device='cuda:0', requires_grad=True)
+activation value (similarity score): tensor([[7.6742e-02, 2.1520e-01, 2.1789e-01, 8.6831e-02, 1.5415e-02, 2.3967e-02,
+         1.1387e-02, 9.9627e-01, 1.1387e-02, 5.9374e-01, 5.0842e-04, 4.3287e-04,
+         4.8912e-04, 5.0901e-04, 5.0603e-04, 5.1628e-04, 5.0842e-04, 4.4384e-04,
+         5.0842e-04, 4.0976e-04]], device='cuda:0', grad_fn=<LogBackward>)
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+prototype index: 2
+prototype class identity: 0
+activation value (similarity score): 0.21788933873176575
+last layer connection: 1.0
+last layer connection  New: tensor([ 2.2440, -2.2440], device='cuda:0', grad_fn=<SelectBackward>)
+last layer connection: Parameter containing:
+tensor([[ 1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1., -1., -1., -1., -1.,
+         -1., -1., -1., -1., -1., -1.],
+        [-1., -1., -1., -1., -1., -1., -1., -1., -1., -1.,  1.,  1.,  1.,  1.,
+          1.,  1.,  1.,  1.,  1.,  1.]], device='cuda:0', requires_grad=True)
+activation value (similarity score): tensor([[7.6742e-02, 2.1520e-01, 2.1789e-01, 8.6831e-02, 1.5415e-02, 2.3967e-02,
+         1.1387e-02, 9.9627e-01, 1.1387e-02, 5.9374e-01, 5.0842e-04, 4.3287e-04,
+         4.8912e-04, 5.0901e-04, 5.0603e-04, 5.1628e-04, 5.0842e-04, 4.4384e-04,
+         5.0842e-04, 4.0976e-04]], device='cuda:0', grad_fn=<LogBackward>)
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+prototype index: 1
+prototype class identity: 0
+activation value (similarity score): 0.21519704163074493
+last layer connection: 1.0
+last layer connection  New: tensor([ 2.2440, -2.2440], device='cuda:0', grad_fn=<SelectBackward>)
+last layer connection: Parameter containing:
+tensor([[ 1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1., -1., -1., -1., -1.,
+         -1., -1., -1., -1., -1., -1.],
+        [-1., -1., -1., -1., -1., -1., -1., -1., -1., -1.,  1.,  1.,  1.,  1.,
+          1.,  1.,  1.,  1.,  1.,  1.]], device='cuda:0', requires_grad=True)
+activation value (similarity score): tensor([[7.6742e-02, 2.1520e-01, 2.1789e-01, 8.6831e-02, 1.5415e-02, 2.3967e-02,
+         1.1387e-02, 9.9627e-01, 1.1387e-02, 5.9374e-01, 5.0842e-04, 4.3287e-04,
+         4.8912e-04, 5.0901e-04, 5.0603e-04, 5.1628e-04, 5.0842e-04, 4.4384e-04,
+         5.0842e-04, 4.0976e-04]], device='cuda:0', grad_fn=<LogBackward>)
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+prototype index: 3
+prototype class identity: 0
+activation value (similarity score): 0.08683064579963684
+last layer connection: 1.0
+last layer connection  New: tensor([ 2.2440, -2.2440], device='cuda:0', grad_fn=<SelectBackward>)
+last layer connection: Parameter containing:
+tensor([[ 1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1., -1., -1., -1., -1.,
+         -1., -1., -1., -1., -1., -1.],
+        [-1., -1., -1., -1., -1., -1., -1., -1., -1., -1.,  1.,  1.,  1.,  1.,
+          1.,  1.,  1.,  1.,  1.,  1.]], device='cuda:0', requires_grad=True)
+activation value (similarity score): tensor([[7.6742e-02, 2.1520e-01, 2.1789e-01, 8.6831e-02, 1.5415e-02, 2.3967e-02,
+         1.1387e-02, 9.9627e-01, 1.1387e-02, 5.9374e-01, 5.0842e-04, 4.3287e-04,
+         4.8912e-04, 5.0901e-04, 5.0603e-04, 5.1628e-04, 5.0842e-04, 4.4384e-04,
+         5.0842e-04, 4.0976e-04]], device='cuda:0', grad_fn=<LogBackward>)
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+prototype index: 0
+prototype class identity: 0
+activation value (similarity score): 0.07674239575862885
+last layer connection: 1.0
+last layer connection  New: tensor([ 2.2440, -2.2440], device='cuda:0', grad_fn=<SelectBackward>)
+last layer connection: Parameter containing:
+tensor([[ 1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1., -1., -1., -1., -1.,
+         -1., -1., -1., -1., -1., -1.],
+        [-1., -1., -1., -1., -1., -1., -1., -1., -1., -1.,  1.,  1.,  1.,  1.,
+          1.,  1.,  1.,  1.,  1.,  1.]], device='cuda:0', requires_grad=True)
+activation value (similarity score): tensor([[7.6742e-02, 2.1520e-01, 2.1789e-01, 8.6831e-02, 1.5415e-02, 2.3967e-02,
+         1.1387e-02, 9.9627e-01, 1.1387e-02, 5.9374e-01, 5.0842e-04, 4.3287e-04,
+         4.8912e-04, 5.0901e-04, 5.0603e-04, 5.1628e-04, 5.0842e-04, 4.4384e-04,
+         5.0842e-04, 4.0976e-04]], device='cuda:0', grad_fn=<LogBackward>)
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+prototype index: 5
+prototype class identity: 0
+activation value (similarity score): 0.023967068642377853
+last layer connection: 1.0
+last layer connection  New: tensor([ 2.2440, -2.2440], device='cuda:0', grad_fn=<SelectBackward>)
+last layer connection: Parameter containing:
+tensor([[ 1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1., -1., -1., -1., -1.,
+         -1., -1., -1., -1., -1., -1.],
+        [-1., -1., -1., -1., -1., -1., -1., -1., -1., -1.,  1.,  1.,  1.,  1.,
+          1.,  1.,  1.,  1.,  1.,  1.]], device='cuda:0', requires_grad=True)
+activation value (similarity score): tensor([[7.6742e-02, 2.1520e-01, 2.1789e-01, 8.6831e-02, 1.5415e-02, 2.3967e-02,
+         1.1387e-02, 9.9627e-01, 1.1387e-02, 5.9374e-01, 5.0842e-04, 4.3287e-04,
+         4.8912e-04, 5.0901e-04, 5.0603e-04, 5.1628e-04, 5.0842e-04, 4.4384e-04,
+         5.0842e-04, 4.0976e-04]], device='cuda:0', grad_fn=<LogBackward>)
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+prototype index: 4
+prototype class identity: 0
+activation value (similarity score): 0.015415329486131668
+last layer connection: 1.0
+last layer connection  New: tensor([ 2.2440, -2.2440], device='cuda:0', grad_fn=<SelectBackward>)
+last layer connection: Parameter containing:
+tensor([[ 1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1., -1., -1., -1., -1.,
+         -1., -1., -1., -1., -1., -1.],
+        [-1., -1., -1., -1., -1., -1., -1., -1., -1., -1.,  1.,  1.,  1.,  1.,
+          1.,  1.,  1.,  1.,  1.,  1.]], device='cuda:0', requires_grad=True)
+activation value (similarity score): tensor([[7.6742e-02, 2.1520e-01, 2.1789e-01, 8.6831e-02, 1.5415e-02, 2.3967e-02,
+         1.1387e-02, 9.9627e-01, 1.1387e-02, 5.9374e-01, 5.0842e-04, 4.3287e-04,
+         4.8912e-04, 5.0901e-04, 5.0603e-04, 5.1628e-04, 5.0842e-04, 4.4384e-04,
+         5.0842e-04, 4.0976e-04]], device='cuda:0', grad_fn=<LogBackward>)
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+prototype index: 8
+prototype class identity: 0
+activation value (similarity score): 0.0113872354850173
+last layer connection: 1.0
+last layer connection  New: tensor([ 2.2440, -2.2440], device='cuda:0', grad_fn=<SelectBackward>)
+last layer connection: Parameter containing:
+tensor([[ 1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1., -1., -1., -1., -1.,
+         -1., -1., -1., -1., -1., -1.],
+        [-1., -1., -1., -1., -1., -1., -1., -1., -1., -1.,  1.,  1.,  1.,  1.,
+          1.,  1.,  1.,  1.,  1.,  1.]], device='cuda:0', requires_grad=True)
+activation value (similarity score): tensor([[7.6742e-02, 2.1520e-01, 2.1789e-01, 8.6831e-02, 1.5415e-02, 2.3967e-02,
+         1.1387e-02, 9.9627e-01, 1.1387e-02, 5.9374e-01, 5.0842e-04, 4.3287e-04,
+         4.8912e-04, 5.0901e-04, 5.0603e-04, 5.1628e-04, 5.0842e-04, 4.4384e-04,
+         5.0842e-04, 4.0976e-04]], device='cuda:0', grad_fn=<LogBackward>)
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+prototype index: 6
+prototype class identity: 0
+activation value (similarity score): 0.0113872354850173
+last layer connection: 1.0
+last layer connection  New: tensor([ 2.2440, -2.2440], device='cuda:0', grad_fn=<SelectBackward>)
+last layer connection: Parameter containing:
+tensor([[ 1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1., -1., -1., -1., -1.,
+         -1., -1., -1., -1., -1., -1.],
+        [-1., -1., -1., -1., -1., -1., -1., -1., -1., -1.,  1.,  1.,  1.,  1.,
+          1.,  1.,  1.,  1.,  1.,  1.]], device='cuda:0', requires_grad=True)
+activation value (similarity score): tensor([[7.6742e-02, 2.1520e-01, 2.1789e-01, 8.6831e-02, 1.5415e-02, 2.3967e-02,
+         1.1387e-02, 9.9627e-01, 1.1387e-02, 5.9374e-01, 5.0842e-04, 4.3287e-04,
+         4.8912e-04, 5.0901e-04, 5.0603e-04, 5.1628e-04, 5.0842e-04, 4.4384e-04,
+         5.0842e-04, 4.0976e-04]], device='cuda:0', grad_fn=<LogBackward>)
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+***************************************************************
+top 2 predicted class: 1
+logit of the class: -2.243991
+prototype index: 15
+prototype class identity: 1
+activation value (similarity score): 0.0005162813467904925
+last layer connection: 1.0
+last layer connection  New: tensor([ 2.2440, -2.2440], device='cuda:0', grad_fn=<SelectBackward>)
+last layer connection: Parameter containing:
+tensor([[ 1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1., -1., -1., -1., -1.,
+         -1., -1., -1., -1., -1., -1.],
+        [-1., -1., -1., -1., -1., -1., -1., -1., -1., -1.,  1.,  1.,  1.,  1.,
+          1.,  1.,  1.,  1.,  1.,  1.]], device='cuda:0', requires_grad=True)
+activation value (similarity score): tensor([[7.6742e-02, 2.1520e-01, 2.1789e-01, 8.6831e-02, 1.5415e-02, 2.3967e-02,
+         1.1387e-02, 9.9627e-01, 1.1387e-02, 5.9374e-01, 5.0842e-04, 4.3287e-04,
+         4.8912e-04, 5.0901e-04, 5.0603e-04, 5.1628e-04, 5.0842e-04, 4.4384e-04,
+         5.0842e-04, 4.0976e-04]], device='cuda:0', grad_fn=<LogBackward>)
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+prototype index: 13
+prototype class identity: 1
+activation value (similarity score): 0.0005090133054181933
+last layer connection: 1.0
+last layer connection  New: tensor([ 2.2440, -2.2440], device='cuda:0', grad_fn=<SelectBackward>)
+last layer connection: Parameter containing:
+tensor([[ 1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1., -1., -1., -1., -1.,
+         -1., -1., -1., -1., -1., -1.],
+        [-1., -1., -1., -1., -1., -1., -1., -1., -1., -1.,  1.,  1.,  1.,  1.,
+          1.,  1.,  1.,  1.,  1.,  1.]], device='cuda:0', requires_grad=True)
+activation value (similarity score): tensor([[7.6742e-02, 2.1520e-01, 2.1789e-01, 8.6831e-02, 1.5415e-02, 2.3967e-02,
+         1.1387e-02, 9.9627e-01, 1.1387e-02, 5.9374e-01, 5.0842e-04, 4.3287e-04,
+         4.8912e-04, 5.0901e-04, 5.0603e-04, 5.1628e-04, 5.0842e-04, 4.4384e-04,
+         5.0842e-04, 4.0976e-04]], device='cuda:0', grad_fn=<LogBackward>)
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+prototype index: 10
+prototype class identity: 1
+activation value (similarity score): 0.000508417550008744
+last layer connection: 1.0
+last layer connection  New: tensor([ 2.2440, -2.2440], device='cuda:0', grad_fn=<SelectBackward>)
+last layer connection: Parameter containing:
+tensor([[ 1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1., -1., -1., -1., -1.,
+         -1., -1., -1., -1., -1., -1.],
+        [-1., -1., -1., -1., -1., -1., -1., -1., -1., -1.,  1.,  1.,  1.,  1.,
+          1.,  1.,  1.,  1.,  1.,  1.]], device='cuda:0', requires_grad=True)
+activation value (similarity score): tensor([[7.6742e-02, 2.1520e-01, 2.1789e-01, 8.6831e-02, 1.5415e-02, 2.3967e-02,
+         1.1387e-02, 9.9627e-01, 1.1387e-02, 5.9374e-01, 5.0842e-04, 4.3287e-04,
+         4.8912e-04, 5.0901e-04, 5.0603e-04, 5.1628e-04, 5.0842e-04, 4.4384e-04,
+         5.0842e-04, 4.0976e-04]], device='cuda:0', grad_fn=<LogBackward>)
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+prototype index: 18
+prototype class identity: 1
+activation value (similarity score): 0.000508417550008744
+last layer connection: 1.0
+last layer connection  New: tensor([ 2.2440, -2.2440], device='cuda:0', grad_fn=<SelectBackward>)
+last layer connection: Parameter containing:
+tensor([[ 1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1., -1., -1., -1., -1.,
+         -1., -1., -1., -1., -1., -1.],
+        [-1., -1., -1., -1., -1., -1., -1., -1., -1., -1.,  1.,  1.,  1.,  1.,
+          1.,  1.,  1.,  1.,  1.,  1.]], device='cuda:0', requires_grad=True)
+activation value (similarity score): tensor([[7.6742e-02, 2.1520e-01, 2.1789e-01, 8.6831e-02, 1.5415e-02, 2.3967e-02,
+         1.1387e-02, 9.9627e-01, 1.1387e-02, 5.9374e-01, 5.0842e-04, 4.3287e-04,
+         4.8912e-04, 5.0901e-04, 5.0603e-04, 5.1628e-04, 5.0842e-04, 4.4384e-04,
+         5.0842e-04, 4.0976e-04]], device='cuda:0', grad_fn=<LogBackward>)
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+prototype index: 16
+prototype class identity: 1
+activation value (similarity score): 0.000508417550008744
+last layer connection: 1.0
+last layer connection  New: tensor([ 2.2440, -2.2440], device='cuda:0', grad_fn=<SelectBackward>)
+last layer connection: Parameter containing:
+tensor([[ 1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1., -1., -1., -1., -1.,
+         -1., -1., -1., -1., -1., -1.],
+        [-1., -1., -1., -1., -1., -1., -1., -1., -1., -1.,  1.,  1.,  1.,  1.,
+          1.,  1.,  1.,  1.,  1.,  1.]], device='cuda:0', requires_grad=True)
+activation value (similarity score): tensor([[7.6742e-02, 2.1520e-01, 2.1789e-01, 8.6831e-02, 1.5415e-02, 2.3967e-02,
+         1.1387e-02, 9.9627e-01, 1.1387e-02, 5.9374e-01, 5.0842e-04, 4.3287e-04,
+         4.8912e-04, 5.0901e-04, 5.0603e-04, 5.1628e-04, 5.0842e-04, 4.4384e-04,
+         5.0842e-04, 4.0976e-04]], device='cuda:0', grad_fn=<LogBackward>)
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+prototype index: 14
+prototype class identity: 1
+activation value (similarity score): 0.0005060345865786076
+last layer connection: 1.0
+last layer connection  New: tensor([ 2.2440, -2.2440], device='cuda:0', grad_fn=<SelectBackward>)
+last layer connection: Parameter containing:
+tensor([[ 1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1., -1., -1., -1., -1.,
+         -1., -1., -1., -1., -1., -1.],
+        [-1., -1., -1., -1., -1., -1., -1., -1., -1., -1.,  1.,  1.,  1.,  1.,
+          1.,  1.,  1.,  1.,  1.,  1.]], device='cuda:0', requires_grad=True)
+activation value (similarity score): tensor([[7.6742e-02, 2.1520e-01, 2.1789e-01, 8.6831e-02, 1.5415e-02, 2.3967e-02,
+         1.1387e-02, 9.9627e-01, 1.1387e-02, 5.9374e-01, 5.0842e-04, 4.3287e-04,
+         4.8912e-04, 5.0901e-04, 5.0603e-04, 5.1628e-04, 5.0842e-04, 4.4384e-04,
+         5.0842e-04, 4.0976e-04]], device='cuda:0', grad_fn=<LogBackward>)
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+prototype index: 12
+prototype class identity: 1
+activation value (similarity score): 0.0004891153075732291
+last layer connection: 1.0
+last layer connection  New: tensor([ 2.2440, -2.2440], device='cuda:0', grad_fn=<SelectBackward>)
+last layer connection: Parameter containing:
+tensor([[ 1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1., -1., -1., -1., -1.,
+         -1., -1., -1., -1., -1., -1.],
+        [-1., -1., -1., -1., -1., -1., -1., -1., -1., -1.,  1.,  1.,  1.,  1.,
+          1.,  1.,  1.,  1.,  1.,  1.]], device='cuda:0', requires_grad=True)
+activation value (similarity score): tensor([[7.6742e-02, 2.1520e-01, 2.1789e-01, 8.6831e-02, 1.5415e-02, 2.3967e-02,
+         1.1387e-02, 9.9627e-01, 1.1387e-02, 5.9374e-01, 5.0842e-04, 4.3287e-04,
+         4.8912e-04, 5.0901e-04, 5.0603e-04, 5.1628e-04, 5.0842e-04, 4.4384e-04,
+         5.0842e-04, 4.0976e-04]], device='cuda:0', grad_fn=<LogBackward>)
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+prototype index: 17
+prototype class identity: 1
+activation value (similarity score): 0.00044383687782101333
+last layer connection: 1.0
+last layer connection  New: tensor([ 2.2440, -2.2440], device='cuda:0', grad_fn=<SelectBackward>)
+last layer connection: Parameter containing:
+tensor([[ 1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1., -1., -1., -1., -1.,
+         -1., -1., -1., -1., -1., -1.],
+        [-1., -1., -1., -1., -1., -1., -1., -1., -1., -1.,  1.,  1.,  1.,  1.,
+          1.,  1.,  1.,  1.,  1.,  1.]], device='cuda:0', requires_grad=True)
+activation value (similarity score): tensor([[7.6742e-02, 2.1520e-01, 2.1789e-01, 8.6831e-02, 1.5415e-02, 2.3967e-02,
+         1.1387e-02, 9.9627e-01, 1.1387e-02, 5.9374e-01, 5.0842e-04, 4.3287e-04,
+         4.8912e-04, 5.0901e-04, 5.0603e-04, 5.1628e-04, 5.0842e-04, 4.4384e-04,
+         5.0842e-04, 4.0976e-04]], device='cuda:0', grad_fn=<LogBackward>)
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+prototype index: 11
+prototype class identity: 1
+activation value (similarity score): 0.0004328744253143668
+last layer connection: 1.0
+last layer connection  New: tensor([ 2.2440, -2.2440], device='cuda:0', grad_fn=<SelectBackward>)
+last layer connection: Parameter containing:
+tensor([[ 1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1., -1., -1., -1., -1.,
+         -1., -1., -1., -1., -1., -1.],
+        [-1., -1., -1., -1., -1., -1., -1., -1., -1., -1.,  1.,  1.,  1.,  1.,
+          1.,  1.,  1.,  1.,  1.,  1.]], device='cuda:0', requires_grad=True)
+activation value (similarity score): tensor([[7.6742e-02, 2.1520e-01, 2.1789e-01, 8.6831e-02, 1.5415e-02, 2.3967e-02,
+         1.1387e-02, 9.9627e-01, 1.1387e-02, 5.9374e-01, 5.0842e-04, 4.3287e-04,
+         4.8912e-04, 5.0901e-04, 5.0603e-04, 5.1628e-04, 5.0842e-04, 4.4384e-04,
+         5.0842e-04, 4.0976e-04]], device='cuda:0', grad_fn=<LogBackward>)
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+prototype index: 19
+prototype class identity: 1
+activation value (similarity score): 0.00040975757292471826
+last layer connection: 1.0
+last layer connection  New: tensor([ 2.2440, -2.2440], device='cuda:0', grad_fn=<SelectBackward>)
+last layer connection: Parameter containing:
+tensor([[ 1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1.,  1., -1., -1., -1., -1.,
+         -1., -1., -1., -1., -1., -1.],
+        [-1., -1., -1., -1., -1., -1., -1., -1., -1., -1.,  1.,  1.,  1.,  1.,
+          1.,  1.,  1.,  1.,  1.,  1.]], device='cuda:0', requires_grad=True)
+activation value (similarity score): tensor([[7.6742e-02, 2.1520e-01, 2.1789e-01, 8.6831e-02, 1.5415e-02, 2.3967e-02,
+         1.1387e-02, 9.9627e-01, 1.1387e-02, 5.9374e-01, 5.0842e-04, 4.3287e-04,
+         4.8912e-04, 5.0901e-04, 5.0603e-04, 5.1628e-04, 5.0842e-04, 4.4384e-04,
+         5.0842e-04, 4.0976e-04]], device='cuda:0', grad_fn=<LogBackward>)
+most highly activated patch of the chosen image by this prototype:
+most highly activated patch by this prototype shown in the original image:
+prototype activation map of the chosen image:
+--------------------------------------------------------------
+***************************************************************
+Prediction is correct.
