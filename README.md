@@ -18,6 +18,8 @@ BibTeX:
 
 ---
 
-Wrote by Dr. **Stefano Frizzo Stefenon**.
+Thank you.
+
+Dr. **Stefano Frizzo Stefenon**.
 
 Trento, Italy, March 10, 2023.
