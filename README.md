@@ -2,7 +2,7 @@
 
 This is a pre-processing of the data available at:   
 https://github.com/InsulatorData/InsulatorDataSet   
-If you need the full data please take a look at the original site.
+If you need the full data please take a look at the original repository.
 
 **There are 3 folders with the dataset:**   
 **Cropped Dataset** with the images cropped.   
@@ -21,6 +21,3 @@ BibTeX:
 Wrote by Dr. **Stefano Frizzo Stefenon**.
 
 Trento, Italy, March 10, 2023.
-
-
-
