@@ -14,7 +14,7 @@ If you need the full data please take a look at the original repository.
 Additional information can be found at the **[Original Paper](https://doi.org/10.1007/s00138-023-01390-6)**.
 
 BibTeX:
-`@Article{s23063202, AUTHOR = {Stefenon, Stefano Frizzo and Singh, Gurmail and Yow, Kin-Choong}, TITLE = {Interpretable visual transmission lines inspections using pseudo-prototypical part network}, JOURNAL = {Machine Vision and Applications}, VOLUME = {34}, YEAR = {2023}, PAGES = {41}, DOI = {10.1007/s00138-023-01390-6}}`
+`@Article{s00138, AUTHOR = {Stefenon, Stefano Frizzo and Singh, Gurmail and Yow, Kin-Choong}, TITLE = {Interpretable visual transmission lines inspections using pseudo-prototypical part network}, JOURNAL = {Machine Vision and Applications}, VOLUME = {34}, YEAR = {2023}, PAGES = {41}, DOI = {10.1007/s00138-023-01390-6}}`
 
 ---
 
