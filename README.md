@@ -1,4 +1,4 @@
- 41,**Insulators Transmission Lines**
+**Insulators Transmission Lines**
 
 This is a pre-processing of the data available at: https://github.com/InsulatorData/InsulatorDataSet   
 If you need the full data please take a look at the original repository.
